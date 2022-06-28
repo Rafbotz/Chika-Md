@@ -19,25 +19,25 @@
   }
 
   // Setting Owner
-  global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['6281946945315','6285646606905'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.premium = ['6281946945315'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.ownernomer = '6281946945315' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
   // Set Nama Own & Bot
-  global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-  global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.ownername = 'Asyraf SixYouu' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.botname = 'Raf Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.footer = 'Asyraf 6Youu' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Kebutuhan Button & Kontak
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-  global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-  global.myweb = 'https://api-riychdwayne.herokuapp.com'
+  global.youtube = 'https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ'
+  global.mygc = 'https://chat.whatsapp.com/EL7LyCN3OMH7U9Uvumunob'
+  global.myweb = 'http://asyrafsixyouuweb.home.blog'
   global.region = 'indonesia'
 
   // Set Wm
-  global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.packname = '© Raf Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.author = 'Asyraf 6Youu' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Nama Session
   //gausah di apa² in!
@@ -67,14 +67,14 @@
   //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
   global.mess = {
   success: '_Done._',
-  admin: '_Fitur Khusus Admin Group!_',
-  botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-  owner: '_Fitur Khusus Owner Bot_',
+  admin: '_Fiturnya Khusus Admin Lu Jangan Sok Nguasai Gc😏!_',
+  botAdmin: '_Botnya Bukan Admin Tolol😒!_',
+  owner: '_Lu Bukan Owner Dek😒_',
   group: '_Fitur Digunakan Hanya Untuk Group!_',
   private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
   bot: '_Fitur Khusus Pengguna Nomor Bot_',
-  wait: '_Sedang Di Proses..._',
-  error: '_Fitur Sedang Error!_',
+  wait: '_Bokep Upin Ipin Hanpir Selesai..._',
+  error: '_Fiturnya Error Mangkanya Download Bkp Skrg_',
   }
 
   // Batas Akhir
