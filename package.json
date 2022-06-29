@@ -1,5 +1,5 @@
 {
-  "name": "Chika-Md",
+  "name": "Chii_Botz",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "riy.js",
@@ -18,8 +18,8 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
-  "license": "MIT",
+  "author": "kii",
+  "license": "chii botz",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
